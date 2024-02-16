@@ -1,0 +1,81 @@
+/* STYLE SECTIONING TAGS */
+* { /* Reset the space of the webpage */
+   margin: 0px;
+   padding: 10px;
+}
+
+body {
+ background-color: #274029; 
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* STYLE TEXT */
+
+h1 {
+  color: #ffffc7;
+  text-align: center;
+}
+h2 {
+  color: #ffffc7;
+  text-align: left;
+}
+h3 {
+  color: #ffffc7;
+  text-decoration: underline;
+  text-align: center;
+}
+h4 {
+  color: #d3d397;
+  text-align: left;
+}
+p {
+  color: #cbece7;
+}
+a {
+  color: #cbece7;
+}
+header {
+  background-color: #206a5e;
+  font-weight: 600;
+  text-align: center;
+}
+
+/* STYLE IMAGES */
+img {
+  max-width: 50%;
+  display: block;
+  padding: 2%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+  width: 50%;
+}
+
+/* STYLE NAV BAR */
+nav {
+  text-align: center;
+}
+ul {
+  list-style-type: none;
+  background-color:  #274029;
+  overflow: hidden;
+  padding: 0.2em;
+}
+li {
+  display: inline;
+  padding-inline-end: 0em;
+}
+li a {
+  text-decoration: none;
+  color:#aed6cf;
+  font-size: 1.3em;
+  padding: 1em;
+}
+li a:hover {
+  background-color: #ffffc7;
+}
+
+/* STYLE BUTTONS */
+
+/* ADD MORE! */
